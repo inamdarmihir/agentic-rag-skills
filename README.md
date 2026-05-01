@@ -1,7 +1,3 @@
-Here's the updated README with Qdrant branding, badges with versions, and icons throughout:
-
----
-
 <div align="center">
 
 # Qdrant RAG Skills
